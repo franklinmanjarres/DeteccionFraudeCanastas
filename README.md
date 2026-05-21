@@ -1,5 +1,13 @@
 ## DeteccionFraudeCanastas
 
+##  Detección de Fraude en Canastas de Compra
+
+<p align="center">
+  <img src="fraude_canastas_animado.gif" width="700" alt="Detección de fraude"/>
+</p>
+
+**Modelo ganador:** Random Forest · Exactitud: 89.97% · Detección de fraudes: +151% vs baseline
+
 Este proyecto implementa modelos de aprendizaje automático para detectar fraude en transacciones de compra, utilizando técnicas como Árboles de Decisión y Random Forest. El análisis se basa en un conjunto de datos reales, logrando resultados con más del **88% de precisión** en la clasificación de operaciones fraudulentas.
 
 ---
