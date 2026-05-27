@@ -1,6 +1,6 @@
 # Detección de Fraude en Canastas de Compra
 
-![Banner](assets/banner_fraude.png)
+![Banner](assets/social_preview_fraude_v10.png)
 
 > Modelo de clasificación supervisada que identifica transacciones fraudulentas en canastas de compra usando Árbol de Decisión y Bosque Aleatorio, con optimización del umbral de decisión para minimizar los fraudes no detectados.
 
